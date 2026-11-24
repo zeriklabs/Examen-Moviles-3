@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Examen3</string>
+    <string name="title_main">Tienda de Productos</string>
+    <string name="subtitle_main">Servicio REST con Retrofit</string>
+    <string name="title_detail">Detalle del Producto</string>
+    <string name="catalog_header">Catálogo de Productos</string>
+    <string name="btn_consult_api">Consultar API</string>
+    <string name="btn_retry">Reintentar</string>
+    <string name="loading_message">Cargando...</string>
+    <string name="description_label">Descripción:</string>
+    <string name="product_img_desc">Imagen del producto</string>
+    <string name="product_detail_img_desc">Imagen detallada del producto</string>
+    <string name="category_format">Categoría: %1$s</string>
+    <string name="brand_format">Marca: %1$s</string>
+    <string name="rating_format">★ %.2f / 5.0</string>
+    <string name="price_format">$%.2f</string>
+    <string name="no_brand">Sin marca</string>
+    <string name="products_count_format">%1$d productos listados</string>
+</resources>
